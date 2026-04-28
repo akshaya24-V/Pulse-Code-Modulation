@@ -1,4 +1,4 @@
-# Pulse-Code-Modulation
+# Experimental Verification of PCM and Demodulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM.
 # Tools required
